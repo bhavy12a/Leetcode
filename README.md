@@ -35,4 +35,16 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/bhavy12a/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhavy12a/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhavy12a/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhavy12a/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
