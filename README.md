@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/bhavy12a/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1480-running-sum-of-1d-array](https://github.com/bhavy12a/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/bhavy12a/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -47,4 +48,24 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavy12a/Leetcode/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bhavy12a/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bhavy12a/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bhavy12a/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bhavy12a/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/bhavy12a/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
