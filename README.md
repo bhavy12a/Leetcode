@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavy12a/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/bhavy12a/Leetcode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/bhavy12a/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/bhavy12a/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
