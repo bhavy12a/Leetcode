@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavy12a/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/bhavy12a/Leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/bhavy12a/Leetcode/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/bhavy12a/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
