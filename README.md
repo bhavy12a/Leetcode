@@ -16,6 +16,7 @@
 | ------- |
 | [1025-divisor-game](https://github.com/bhavy12a/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavy12a/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2235-add-two-integers](https://github.com/bhavy12a/Leetcode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
