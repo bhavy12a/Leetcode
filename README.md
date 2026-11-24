@@ -17,6 +17,7 @@
 | ------- |
 | [1025-divisor-game](https://github.com/bhavy12a/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhavy12a/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavy12a/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/bhavy12a/Leetcode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@
 | [0206-reverse-linked-list](https://github.com/bhavy12a/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhavy12a/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhavy12a/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhavy12a/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
